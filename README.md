@@ -30,9 +30,9 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and solvi
 
 ## 🧠 Fun Facts
 
-- 🔍 I'm curious by nature — CTFs are my puzzle playground.
+- 🔍 I love participating in CTFs along with my friends, @docea007 ( dacia team go brr )
 - 💻 I break things just to fix them better.
-- ✝️ Jesus loves you — and so do I (in a coding kind of way).
+- ✝️ Jesus loves you , you know the rules and so do I (ifykyk).
 
 ---
 
@@ -43,6 +43,5 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and solvi
 
 ---
 
-> “Learning to write programs stretches your mind and helps you think better.”  
-> — Bill Gates
+> “I don’t always hack, but when I do... I do it legally. Mostly.”  
 
