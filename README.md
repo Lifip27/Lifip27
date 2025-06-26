@@ -6,6 +6,7 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and solvi
 - 🔧 **Frontend & Backend Development**  
 - 📱 **Flutter** (we’re in a love-hate relationship)
 - 🛡️ **CTFs** and 🏆 **Hackathons**
+- 🐛 **Bug Bounties** ( new )
 
 💡 I love learning, exploring new technologies, and working on side projects that make an impact.
 
