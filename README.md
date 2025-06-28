@@ -39,7 +39,7 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and solvi
 ## 📬 Let's Connect
 
 - Discord : Lifip
-- Email me: lifip27@proton.me
+- Email me: filipneo98@gmail.com
 
 ---
 
