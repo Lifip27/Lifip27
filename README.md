@@ -36,11 +36,3 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and solvi
 
 ---
 
-## 📬 Let's Connect
-
-- Discord : Lifip
-
----
-
-> “I don’t always hack, but when I do... I do it legally. Mostly.”  
-
