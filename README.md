@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Filip**, a high schooler passionate about coding, building apps, and solving real-world challenges — one bug at a time.
+I'm **Filip**, a high schooler passionate about coding, building apps, and participating in CTFs.
 
 🚀 Currently diving deeper into:
 - 🔧 **Frontend & Backend Development**  
