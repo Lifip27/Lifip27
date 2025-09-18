@@ -1,14 +1,6 @@
 # 👋 Hey there!
 
-I'm **Filip**, a high schooler passionate about coding, building apps, and participating in CTFs.
-
-🚀 Currently diving deeper into:
-- 🔧 **Frontend & Backend Development**  
-- 📱 **Flutter** (we’re in a love-hate relationship)
-- 🛡️ **CTFs** and 🏆 **Hackathons**
-- 🐛 **Bug Bounties** ( new )
-
-💡 I love learning, exploring new technologies, and working on side projects that make an impact.
+I'm **Filip**, a high schooler passionate about coding, building apps, and participating in cybersecurity contests!
 
 ---
 
@@ -28,10 +20,7 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and parti
 
 ---
 
-## 🧠 Fun Facts
+✝️ Jesus loves you
 
-- 🔍 I love participating in CTFs along with my friends, @docea007 ( dacia team go brr )
-- 💻 I break things just to fix them better
-- ✝️ Jesus loves you 
 ---
 
