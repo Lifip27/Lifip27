@@ -4,8 +4,8 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and parti
 
 ---
 
-My placements with Dacia Team!
-[ctftime](<https://ctftime.org/team/383164>)
+My placements with Dacia Team!   
+[CTFTime](<https://ctftime.org/team/383164>)
 
 **Writeups** made:
 - Unbreakable25 InfoEducatie! 🥉
@@ -30,7 +30,7 @@ more to come...
 
 ---
 
-✝️ Jesus loves you
+✝️ Jesus loves you   
 🟪 My Discord is "lifip" (feel free to add me!)
 
 ---
