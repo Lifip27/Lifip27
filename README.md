@@ -31,7 +31,7 @@ more to come...
 ---
 
 ✝️ Jesus loves you   
-🟪 My Discord is "lifip" (feel free to add me!)
+🟪 My Discord is "lifip" (feel free to add me!).  
 🏆 UniHack 2024 Finance Track Winner 
 ---
 
