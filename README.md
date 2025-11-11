@@ -7,13 +7,6 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and parti
 My placements with Dacia Team!   
 [CTFTime](<https://ctftime.org/team/383164>)
 
-**Writeups** made:
-- Unbreakable25 InfoEducatie! 🥉
-- AC@CTF Quals 🥉
-- AC@CTF Finals 4th Place
-
-more to come...
-
 ---
 ## ⚙️ Tech Stack & Tools
 
