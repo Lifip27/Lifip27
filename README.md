@@ -10,6 +10,7 @@ My placements with Dacia Team!
 **Writeups** made:
 - Unbreakable25 InfoEducatie! 🥉
 - AC@CTF Quals 🥉
+- AC@CTF Finals 4th Place
 
 more to come...
 
@@ -28,10 +29,4 @@ more to come...
   <img src="https://img.shields.io/badge/CTF-FF4081?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </div>
 
----
-
-✝️ Jesus loves you   
-🟪 My Discord is "lifip" (feel free to add me!).  
-🏆 UniHack 2024 Finance Track Winner 
----
 
