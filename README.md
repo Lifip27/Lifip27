@@ -4,8 +4,17 @@ I'm **Filip**, a high schooler passionate about coding, building apps, and parti
 
 ---
 
-My placements with Dacia Team!   
-[CTFTime](<https://ctftime.org/team/383164>)
+My placements with Dacia Team!    [CTFTime](<https://ctftime.org/team/383164>)
+
+Not on CTFTime:
+🥇 1st Place PwnCTF 2025
+
+---
+
+Solo placements:
+🥇 1st Place OmniCTF 2025
+🥈 2nd Place Unbreakable InfoEdu Focsani
+🥉 3rd Place County Stage for Cybersecurity Olympic 2025
 
 ---
 ## ⚙️ Tech Stack & Tools
