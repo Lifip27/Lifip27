@@ -20,7 +20,7 @@ Solo placements:
 
 🥉 3rd Place County Stage for Cybersecurity Olympic 2025
 
-🏆 Qualified for ECW 2025 Final ( didn't participate at the finals )
+🏆 Qualified for ECW 2025 Final
 
 ---
 ## ⚙️ Tech Stack & Tools
