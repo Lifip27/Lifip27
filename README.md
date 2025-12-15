@@ -10,6 +10,10 @@ Not on CTFTime:
 
 🥇 1st Place PwnCTF 2025
 
+🥉 3rd Place CyberTM 2025
+
+🏅 4rd Place Itec Cybersecurity 2025
+
 ---
 
 Solo placements:
