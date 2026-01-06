@@ -24,7 +24,7 @@ Solo placements:
 
 🥉 3rd Place County Stage for Cybersecurity Olympic 2025
 
-🏆 Qualified for ECW 2025 Final
+🏆 Qualified for ECW 2025 Final in Rennes, France
 
 ---
 ## ⚙️ Tech Stack & Tools
