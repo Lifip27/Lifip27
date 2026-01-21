@@ -2,8 +2,6 @@
 
 I'm **Filip**, a high schooler passionate about coding, building apps, and participating in cybersecurity contests!
 
-Currently **Lead Web Dev** for **BugLess**. Check it out [BugLess](<https://bugless.store>)
-
 ---
 
 My placements with Dacia Team!    [CTFTime](<https://ctftime.org/team/383164>)
