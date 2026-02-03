@@ -1,44 +1,56 @@
 # 👋 Hey there!
 
-I'm **Filip**, a high schooler passionate about coding, building apps, and participating in cybersecurity contests!
+I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong focus on web application security and CTF competitions.
+
+## 🎯 Professional Experience
+
+- **Security Internship – OPSWAT**
+- Reported multiple web application vulnerabilities through responsible disclosure programs
 
 ---
 
-My placements with Dacia Team!    [CTFTime](<https://ctftime.org/team/383164>)
+## 🏆 CTF & Competition Achievements
 
-Not on CTFTime:
+### Team Placements (with Dacia Team)  
+[CTFTime Team Profile](https://ctftime.org/team/383164)
 
-🥇 1st Place PwnCTF 2025
+**Recent Results (not yet on CTFTime):**
+- 🥇 **1st Place – PwnCTF 2025**
+- 🥉 **3rd Place – CyberTM 2025**
+- 🏅 **4th Place – Itec Cybersecurity 2025**
 
-🥉 3rd Place CyberTM 2025
+### Solo Placements
+- 🥇 **1st Place – OmniCTF 2025**
+- 🥈 **2nd Place – Unbreakable InfoEdu Focșani**
+- 🥉 **3rd Place – County Stage, Romanian Cybersecurity Olympiad 2025**
+- 🏆 **Qualified for European Cybersecurity Challenge (ECW) 2025 Final – Rennes, France**
 
-🏅 4rd Place Itec Cybersecurity 2025
+---
+
+## 🔍 Areas of Focus
+
+- Web Application Security Testing  
+- Authorization & Business Logic Flaws  
+- API Security and Abuse  
+- Chaining vulnerabilities for real impact  
+- Modern web attack surfaces  
 
 ---
 
-Solo placements:
-
-🥇 1st Place OmniCTF 2025
-
-🥈 2nd Place Unbreakable InfoEdu Focsani
-
-🥉 3rd Place County Stage for Cybersecurity Olympic 2025
-
-🏆 Qualified for ECW 2025 Final in Rennes, France
-
----
 ## ⚙️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/CTF-FF4081?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Security-0A0A0A?style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
+---
 
+## 📫 Contact
+
+- **Email:** filipneo@outlook.com  
+- **GitHub:** (this page!)
