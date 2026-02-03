@@ -27,16 +27,6 @@ I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong
 
 ---
 
-## 🔍 Areas of Focus
-
-- Web Application Security Testing  
-- Authorization & Business Logic Flaws  
-- API Security and Abuse  
-- Chaining vulnerabilities for real impact  
-- Modern web attack surfaces  
-
----
-
 ## ⚙️ Tech Stack & Tools
 
 <div align="left">
