@@ -24,7 +24,7 @@ I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong
 - 🥈 **2nd Place – Unbreakable InfoEdu Focșani**
 - 🥉 **3rd Place – County Stage, Romanian Cybersecurity Olympiad 2025**
 - 🏆 **Qualified for European Cybersecurity Challenge (ECW) 2025 Final – Rennes, France**
-- 🏆 **Qualified for ROCSC Finals 2026**
+- 🏆 **Qualified for ROCSC Finals 2026** [Source](https://docs.google.com/spreadsheets/d/1BYpXcrcFouCouOWquViEpgXLUHerWd3t7SKrhqDXyOM/edit?gid=0#gid=0)
 
 ---
 
