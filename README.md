@@ -14,7 +14,10 @@ I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong
 ### Team Placements (with Dacia Team)  
 [CTFTime Team Profile](https://ctftime.org/team/383164)
 
-**Recent Results (not yet on CTFTime):**
+**Newest Qualifications:**
+- 🏆 HackDay 2026 Finals in Paris, France
+
+**Recent Results (not on CTFTime):**
 - 🥇 **1st Place – PwnCTF 2025**
 - 🥉 **3rd Place – CyberTM 2025**
 - 🏅 **4th Place – Itec Cybersecurity 2025**
