@@ -46,5 +46,4 @@ I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong
 
 ## 📫 Contact
 
-- **Email:** filipneo@outlook.com  
-- **GitHub:** (this page!)
+- **Email:** filipneo@outlook.com
