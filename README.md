@@ -15,7 +15,9 @@ I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong
 [CTFTime Team Profile](https://ctftime.org/team/383164)
 
 **Newest Qualifications:**
-- 🏆 HackDay 2026 Finals in Paris, France
+- 🏆 HackDay 2026 Qualifiers for Finals in Paris, France
+- 🏆 Eschaton 2026 Qualifiers for Finals in India, MITS Kochi
+- 🥇 UVT-CTF 2026 Qualifiers for Finals in Romania, Timisoara ( Secured 1st Place in HighSchool Category [source](https://cdn.discordapp.com/attachments/1439673862076760279/1477219602139185349/contest-conclusion-321612050054774979.scoreboards.png?ex=69a3f776&is=69a2a5f6&hm=11cc15055cc0ca967cebce40d3b8d38096519a7888fe573fcd5ee09ec4ffd636&) )
 
 **Recent Results (not on CTFTime):**
 - 🥇 **1st Place – PwnCTF 2025**
