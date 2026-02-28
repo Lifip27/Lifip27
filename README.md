@@ -6,7 +6,7 @@ I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong
 
 - **Security Internship – OPSWAT**
 - Reported multiple web application vulnerabilities through responsible disclosure programs
-
+- Challenge Creator for Multiple CTFs, such as: Defcamp26 - Retro Village, Unbreakable Locals
 ---
 
 ## 🏆 CTF & Competition Achievements
