@@ -49,3 +49,4 @@ I'm **Filip**, a 17-year-old cybersecurity enthusiast from Romania with a strong
 ## 📫 Contact
 
 - **Email:** filipneo@outlook.com
+- **LinkedIn:** [https://www.linkedin.com/in/lifip27/](https://www.linkedin.com/in/lifip27/)
